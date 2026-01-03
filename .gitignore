@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+
+# Virtual envs
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit cache and state
+.cache/
+
+# Bytecode and logs
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Secrets and env
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Excel outputs
+*.xlsx
+
+# Packaging
+*.whl
+*.egg
+
+# Coverage
+coverage.xml
+htmlcov/

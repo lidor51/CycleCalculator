@@ -1,0 +1,42 @@
+{
+  "cycles": [
+    {
+      "name": "L1 Feeder",
+      "actions": [
+        26,
+        0,
+        26,
+        1
+      ]
+    },
+    {
+      "name": "L2 Feeder",
+      "actions": [
+        26,
+        2,
+        26,
+        2
+      ]
+    },
+    {
+      "name": "L3 Feeder",
+      "actions": [
+        26,
+        0,
+        26,
+        3
+      ]
+    },
+    {
+      "name": "L4 Feeder",
+      "actions": [
+        26,
+        0,
+        26,
+        4
+      ]
+    }
+  ],
+  "global_time": 135.0,
+  "encoding": "cp1255"
+}
